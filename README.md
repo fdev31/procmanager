@@ -17,7 +17,7 @@ procmgr list
 To remove track of no-longer running processes:
 
 ```bash
-procmgr list
+procmgr clean
 ```
 To stop a running process:
 
